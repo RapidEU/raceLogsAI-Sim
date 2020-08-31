@@ -1,1 +1,1 @@
-window.location = javascript:alert(1)
+location='javascript:alert(1)'
